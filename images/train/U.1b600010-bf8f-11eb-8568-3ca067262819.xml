@@ -1,0 +1,26 @@
+<annotation>
+	<folder>U</folder>
+	<filename>U.1b600010-bf8f-11eb-8568-3ca067262819.jpg</filename>
+	<path>E:\STMIK TASIKMALAYA\Skripsi\sibi_vokal\images\collectedimages\U\U.1b600010-bf8f-11eb-8568-3ca067262819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>218</ymin>
+			<xmax>244</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

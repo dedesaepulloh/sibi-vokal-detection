@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>A.d4a85c94-c67c-11eb-a8c2-88d7f6271fd3.jpg</filename>
+	<path>E:\STMIK TASIKMALAYA\Skripsi\sibi_vokal\images\collectedimages\A\A.d4a85c94-c67c-11eb-a8c2-88d7f6271fd3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>226</ymin>
+			<xmax>193</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

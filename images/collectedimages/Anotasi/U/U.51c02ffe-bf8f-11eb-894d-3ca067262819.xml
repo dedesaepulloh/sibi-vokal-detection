@@ -1,0 +1,26 @@
+<annotation>
+	<folder>U</folder>
+	<filename>U.51c02ffe-bf8f-11eb-894d-3ca067262819.jpg</filename>
+	<path>E:\STMIK TASIKMALAYA\Skripsi\sibi_detection\images\collectedimages\U\U.51c02ffe-bf8f-11eb-894d-3ca067262819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>U</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>198</ymin>
+			<xmax>423</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

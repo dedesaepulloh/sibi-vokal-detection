@@ -1,0 +1,26 @@
+<annotation>
+	<folder>E</folder>
+	<filename>E.4854c4ba-c6a2-11eb-9bfc-88d7f6271fd3.jpg</filename>
+	<path>E:\STMIK TASIKMALAYA\Skripsi\sibi_vokal\images\collectedimages\E\E.4854c4ba-c6a2-11eb-9bfc-88d7f6271fd3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>249</ymin>
+			<xmax>261</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

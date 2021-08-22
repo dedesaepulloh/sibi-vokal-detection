@@ -1,0 +1,26 @@
+<annotation>
+	<folder>O</folder>
+	<filename>O.ad00de12-bf89-11eb-870a-3ca067262819.jpg</filename>
+	<path>E:\STMIK TASIKMALAYA\Skripsi\sibi_vokal\images\collectedimages\O\O.ad00de12-bf89-11eb-870a-3ca067262819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>216</ymin>
+			<xmax>456</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

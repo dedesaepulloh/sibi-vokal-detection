@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I.bd92d010-bf83-11eb-9f63-3ca067262819.jpg</filename>
+	<path>E:\STMIK TASIKMALAYA\Skripsi\sibi_detection\images\collectedimages\I\I.bd92d010-bf83-11eb-9f63-3ca067262819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>215</ymin>
+			<xmax>483</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>A.c488f4e4-bf7c-11eb-aee4-3ca067262819.jpg</filename>
+	<path>E:\STMIK TASIKMALAYA\Skripsi\sibi_detection\images\collectedimages\A\A.c488f4e4-bf7c-11eb-aee4-3ca067262819.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>213</ymin>
+			<xmax>227</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
